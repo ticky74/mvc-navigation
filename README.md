@@ -8,7 +8,8 @@ across your asp.net mvc areas.
 
 Usage
 ======================================
-var menu = new NavigationItem
+	var menu = new NavigationItem
+
             {
                 Meta = new MvcNavigationMeta
                 {
