@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="01e103e6-1c45-4f39-8225-5ad57e7e1070">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Navigation/INavigationService.cs</FileRelativePath>
+        <ProjectRelativePath>Hx.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>9457208036692012161</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>17902395468818744796</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Navigation/NavigationItem.cs</FileRelativePath>
+        <ProjectRelativePath>Hx.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>15910885407076997135</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>NavigationItem.cs</FileRelativePath>
+        <ProjectRelativePath>Hx.MvcNavigation.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>15910885407076997135</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>
